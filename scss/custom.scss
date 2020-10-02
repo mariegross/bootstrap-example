@@ -3,7 +3,7 @@
 $body-bg: #fcc199;
 $body-color: white;
 $primary: lightsalmon;
-$font-family-base: Arial;
+$font-family-base: Andale Mono;
 
 // Include all Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
@@ -69,6 +69,7 @@ footer {
 h6 {
   text-align: left;
   font-family: Andale Mono;
+  font-size: 23px;
 }
 
 img {
