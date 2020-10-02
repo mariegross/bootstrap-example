@@ -9907,6 +9907,7 @@ p {
 }
 
 h2 {
+  text-align: left;
   font-family: Andale Mono;
 }
 
@@ -9916,6 +9917,7 @@ h3 {
 }
 
 .container-md {
+  margin-top: 70px;
   margin-left: 250px;
 }
 
@@ -9940,6 +9942,22 @@ h3 {
 
 .card-deck {
   margin-top: 100px;
+}
+
+footer {
+  margin-top: 50px;
+  margin-left: 200px;
+}
+
+h6 {
+  text-align: left;
+  font-family: Andale Mono;
+}
+
+img {
+  height: 350px;
+  width: 100px;
+  padding: 35px;
 }
 
 /*# sourceMappingURL=custom.css.map */
