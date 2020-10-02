@@ -9915,4 +9915,19 @@ h3 {
   margin-left: 250px;
 }
 
+.card-title {
+  text-align: right;
+  font-family: Andale Mono;
+  color: #fcc199;
+}
+
+.card-text {
+  color: black;
+}
+
+.card-deck {
+  margin-left: 150px;
+  margin-right: 10px;
+}
+
 /*# sourceMappingURL=custom.css.map */
