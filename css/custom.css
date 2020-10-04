@@ -9895,6 +9895,7 @@ h3 {
 }
 body {
   margin: 20px;
+  width: 100vw;
 }
 
 header {
@@ -9918,7 +9919,22 @@ h3 {
 
 .container-md {
   margin-top: 70px;
-  margin-left: 250px;
+}
+
+.img-container {
+  height: 200px;
+  margin: auto;
+  margin-top: 1rem;
+}
+.img-container img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.card {
+  margin: 1rem;
+  width: 280px;
 }
 
 .card-title {
@@ -9932,16 +9948,13 @@ h3 {
 }
 
 .card-deck {
-  margin: 50px 170px 50px 200px;
+  margin: 1rem;
+  margin-top: 100px;
 }
 
 .nav-link {
   color: white;
   font-family: Andale Mono;
-}
-
-.card-deck {
-  margin-top: 100px;
 }
 
 footer {
@@ -9955,7 +9968,7 @@ h6 {
   font-size: 23px;
 }
 
-img {
+header > img {
   height: 350px;
   width: 100px;
   padding: 35px;
